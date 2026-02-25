@@ -29,6 +29,6 @@ public class QuickSorter implements Sorter {
   }
   
   public String toString() {
-    return "quicksort";
+    return "quicksort bello";
   }
 }
